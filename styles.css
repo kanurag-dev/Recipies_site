@@ -1,0 +1,25 @@
+*{
+   
+    background-color: darkgrey;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    border: solid aqua 10px;
+    margin: 0 auto;
+}
+a{
+    color: blue;
+    display: block;
+    text-decoration: solid;
+    text-align: center;
+}
+   
+.matarPaneer{
+    background-color: bisque;
+}
+.GobhiAalu{
+    background-color: beige;
+}
